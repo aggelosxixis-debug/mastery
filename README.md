@@ -1,2 +1,15 @@
-# mastery
-60-Day Shelby x Axelrod Mastery Protocol — Discipline. Strategy. Power.
+# Mastery Protocol
+
+Μία offline, single-file web εφαρμογή 60 ημερών για πειθαρχία, στρατηγική, ηγεσία και ηθική λήψη αποφάσεων, εμπνευσμένη από τη μυθοπλασία του Thomas Shelby και του Bobby Axelrod.
+
+## Χρήση
+
+1. Άνοιξε το `index.html` σε browser.
+2. Ολοκλήρωσε και τα τρία checkboxes κάθε ημέρας.
+3. Η επόμενη ημέρα ξεκλειδώνει αυτόματα.
+
+Η πρόοδος αποθηκεύεται τοπικά στον browser με `localStorage`.
+
+## Σημείωση
+
+Το project προωθεί νόμιμη, ηθική και μη χειριστική εφαρμογή: αυτοέλεγχο, προετοιμασία, υγιή όρια, δίκαιη διαπραγμάτευση και υπεύθυνη ηγεσία.
